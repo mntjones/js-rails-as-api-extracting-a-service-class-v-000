@@ -1,4 +1,4 @@
-class SightingSerializer < ApplicationController
+class SightingSerializer
   
   
 end
