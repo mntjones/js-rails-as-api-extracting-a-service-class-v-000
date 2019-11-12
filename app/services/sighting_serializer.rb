@@ -16,7 +16,9 @@ class SightingSerializer
       },
       except: [:updated_at],
     }
+    
     @sighting.to_json(options)
+    
   end
   
 end
